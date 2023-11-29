@@ -99,9 +99,6 @@
 <img src="./IMGS/img47.png"/>
 <hr/>
 
-
-
-
 <li>8. Affecter les rôles aux utilisateurs</li>
 <h5>- Tester l'authentification avec le mot de passe</h5>
 <img src="./IMGS/img48.png"/>
@@ -174,100 +171,49 @@
 <h5>- Changer les paramètres des Tokens Access Token et Refresh Token</h5>
 
 <h3>Partié 2 :  </h3>
-<h2>Sécuriser Ebank Service</h2>
-<ul>
-
-<li>Ajouter les dépendances </li>
-<br>
-    <img src="IMG2/img01.png"/>
-<hr/>
-
-<li>application.properties</li>
-<br>
-    <img src="./IMG2/img04.png"/>
-<hr/>
-    <li>Créer une package security contient deux classes qui sont constituée pour definir la configuration de sécuriter de notre micro service ebank-service </li>
-<br>
-    <img src="./IMG2/img06.png"/>
-<hr/>
-<hr/>
-    <li>Pour spécifier la quelle qui'il peut accéder à cette route</li>
-<br>
-    <img src="./IMG2/img03.png"/>
-<hr/>
-</ul>
-<h2>Sécuriser Wallet Front End ANGULAR</h2>
-
-<ul>
-
-<li>Installer Keycloak-js & Keycloak-angular </li>
-<br>
-    <img src="IMG2/img18.png"/>
+<h2> Sécuriser application Wallet avec Keycloak : </h2>
 
 <li></li>
 <br>
-    <img src="IMG2/img11.png"/>
+<img src="./IMG2/img40.png"/>
 <li></li>
+<img src="./IMG2/img42.png"/>
 <br>
-    <img src="IMG2/img12.png"/>
+<li></li>
+<img src="./IMG2/img43.png"/>
+<br>
+<li></li>
+<img src="./IMG2/img29.png"/>
+<br>
+<li></li>
 
-<li></li>
+<img src="./IMG2/img30.png"/>
 <br>
-    <img src="IMG2/img13.png"/>
 <li></li>
+<img src="./IMG2/img31.png"/>
 <br>
-    <img src="IMG2/img14.png"/>
 <li></li>
+<img src="./IMG2/img32.png"/>
 <br>
-    <img src="IMG2/img15.png"/>
 <li></li>
+<img src="./IMG2/img33.png"/>
 <br>
-    <img src="IMG2/img16.png"/>
 <li></li>
+<img src="./IMG2/img34.png"/>
 <br>
-    <img src="IMG2/img17.png"/>
-
-
-<hr/>
-
-
-</ul>
-
-
-<h2>Sécuriser Wallet Service</h2>
-<ul>
 <li></li>
+<img src="./IMG2/img35.png"/>
 <br>
-    <img src="IMG2/img19.png"/>
-
 <li></li>
+<img src="./IMG2/img36.png"/>
 <br>
-    <img src="IMG2/img20.png"/>
 <li></li>
+<img src="./IMG2/img37.png"/>
+<br><br>
+<img src="./IMG2/img38.png"/>
 <br>
-    <img src="IMG2/img21.png"/>
 <li></li>
-<br>
-    <img src="IMG2/img22.png"/>
-<li></li>
-<br>
-    <img src="IMG2/img22.png"/>
-<li></li>
-<br>
-    <img src="IMG2/img23.png"/>
-<li></li>
-<br>
-    <img src="IMG2/img24.png"/>
-<li></li>
-<br>
-    <img src="IMG2/img25.png"/>
-<li></li>
-<br>
-    <img src="IMG2/img26.png"/>
-<li></li>
-<br>
-    <img src="IMG2/img27.png"/>
-</ul>
+<img src="./IMG2/img39.png"/>
 </ul>
 
 
