@@ -233,6 +233,41 @@
 
 </ul>
 
+
+<h2>Sécuriser Wallet Service</h2>
+<ul>
+<li></li>
+<br>
+    <img src="IMG2/img19.png"/>
+
+<li></li>
+<br>
+    <img src="IMG2/img20.png"/>
+<li></li>
+<br>
+    <img src="IMG2/img21.png"/>
+<li></li>
+<br>
+    <img src="IMG2/img22.png"/>
+<li></li>
+<br>
+    <img src="IMG2/img22.png"/>
+<li></li>
+<br>
+    <img src="IMG2/img23.png"/>
+<li></li>
+<br>
+    <img src="IMG2/img24.png"/>
+<li></li>
+<br>
+    <img src="IMG2/img25.png"/>
+<li></li>
+<br>
+    <img src="IMG2/img26.png"/>
+<li></li>
+<br>
+    <img src="IMG2/img27.png"/>
+</ul>
 </ul>
 
 
