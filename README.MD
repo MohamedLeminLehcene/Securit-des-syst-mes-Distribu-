@@ -171,6 +171,8 @@
 <h5>- Changer les paramètres des Tokens Access Token et Refresh Token</h5>
 
 <h3>Partié 2 :  </h3>
+
+<p>Dans cette partie, je souhaite sécuriser une application de portefeuille développée avec une architecture de système distribué utilisant Spring Boot Cloud et Angular. J'ai utilisé Keycloak comme moyen de sécurité dans Spring Boot Sécurité. Ainsi, notre application propose deux types d'utilisateurs : "user" et "admin". Certains itinéraires sont réservés exclusivement aux administrateurs. De plus, si l'utilisateur n'a pas encore effectué d'authentification, le système de sécurité oblige l'utilisateur qui tente de consulter l'application à effectuer une authentification.</p>
 <h2> Sécuriser application Wallet avec Keycloak : </h2>
 
 <li></li>
